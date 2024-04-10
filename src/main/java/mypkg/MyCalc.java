@@ -25,6 +25,10 @@ public class MyCalc {
 	{
 		System.out.println("Hello Function");
 	}
+	public void test()
+	{
+		System.out.println("Hello! Docker container from Github Action");
+	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -35,6 +39,7 @@ public class MyCalc {
 		System.out.println("Div is: "+calc.div(20,10));
 		calc.show();
 		calc.hello();
+		calc.test();
 	}
 
 }
