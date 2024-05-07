@@ -23,7 +23,7 @@ public class MyCalc {
 	}
 	public void hello()
 	{
-		System.out.println("Hello Function");
+		System.out.println("Hello Function!!!");
 	}
 	public void test()
 	{
