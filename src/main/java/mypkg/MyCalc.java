@@ -27,7 +27,7 @@ public class MyCalc {
 	}
 	public void test()
 	{
-		System.out.println("Hello! Docker container from Github Action");
+		System.out.println("Hello! Docker container from Github Action!!!");
 	}
 	
 	public static void main(String[] args) {
